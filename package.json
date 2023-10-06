@@ -1,0 +1,27 @@
+{
+  "name": "math-quiz",
+  "version": "1.0.0",
+  "description": "Simple math quiz in german",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "start src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StellarisLD/mathe-quiz.git"
+  },
+  "keywords": [
+    "math-quiz",
+    "german",
+    "javascript"
+  ],
+  "author": "Leandecks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StellarisLD/mathe-quiz/issues"
+  },
+  "homepage": "https://github.com/StellarisLD/mathe-quiz#readme",
+  "dependencies": {
+    "sass": "^1.66.1"
+  }
+}
